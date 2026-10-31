@@ -1,0 +1,15 @@
+# Tested 2026-10-10 with Python 3.10 (s3prl breaks on 3.11+ and on torchaudio >= 2.9).
+# Install torch first with the CUDA build matching your GPU driver, e.g.:
+#   pip install torch==2.4.1 torchaudio==2.4.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.4.1
+torchaudio==2.4.1
+sheet-sqa==0.2.5
+s3prl==0.4.10
+numpy<2
+huggingface_hub
+soundfile
+scipy
+pandas
+pyyaml
+tqdm
+

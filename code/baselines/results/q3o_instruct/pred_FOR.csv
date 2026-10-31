@@ -1,0 +1,721 @@
+wav_path,mos,system,response,pred
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00001_for_cnv_m_0103_01.wav,4.34615384615385,1,"The audio has a noticeable background hiss throughout, and the voice sounds somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality recording or microphone. There is no distortion or dropouts, but the overall fidelity is limited, likely due to band-limitation or compression. The speaker's voice is clear enough to understand, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00001_for_cnv_m_1035_02.wav,4.51612903225806,1,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but the overall recording sounds somewhat muffled and lacks high-frequency detail, suggesting a lower-quality microphone or recording conditions. There are no obvious distortions or dropouts.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00001_for_cnv_f_0104_02.wav,4.321428571428569,1,"The audio quality is good with a clear female voice. There is a slight background hum, but it does not interfere with speech intelligibility. The recording is clean and natural-sounding, with no noticeable distortion or dropouts.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00001_for_cnv_f_0113_03.wav,4.53125,1,"The audio quality is generally good, with clear speech and minimal background noise. There is a slight room tone present, but it does not interfere with intelligibility. The voice is natural and well-captured, with no noticeable distortion, dropouts, or band-limitation. The recording appears to be made with a decent microphone in a quiet indoor environment.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00002_for_cnv_m_0068_01.wav,3.7391304347826098,2,"The audio contains a noticeable amount of background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or low-quality recording equipment. There is also a slight, persistent low-frequency hum. The speech is clear enough to understand, but the overall sound is not crisp or full. The recording appears to be mono and lacks depth.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00002_for_cnv_m_0055_02.wav,3.3125,2,"The audio has a noticeable background hiss throughout. The recording is in mono and sounds somewhat muffled, suggesting it might be from a lower-quality microphone or a recording made in a non-ideal environment. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00002_for_cnv_f_0036_01.wav,3.65625,2,"The audio quality is generally good, with a clear and intelligible female voice. There is a slight background hiss, but no noticeable distortion, dropouts, or unnatural voice characteristics. The recording seems to be made in a quiet environment with minimal room echo.
+
+Score: 4.0",4.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00002_for_cnv_f_0087_02.wav,3.69565217391304,2,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall sound is somewhat thin and lacks warmth, possibly due to a limited frequency response or recording environment. There are no significant distortions or dropouts.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00003_for_cnv_m_0056_03.wav,2.1153846153846203,3,"The audio has a noticeable background hiss throughout, and the voice sounds somewhat muffled and distant, suggesting a low-fidelity recording. There is also a slight echo or reverberation, indicating it may have been recorded in a room with poor acoustics. The speech is understandable but lacks clarity and crispness.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00003_for_cnv_m_0067_03.wav,2.57575757575758,3,"The audio has a noticeable background hiss throughout, and the voice sounds somewhat muffled and distant, suggesting a low-fidelity recording. There is also a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speech is clear enough to understand, but the overall sound is not crisp or vibrant.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00003_for_cnv_f_0114_03.wav,2.21875,3,"The audio has a noticeable background hiss throughout, which is most apparent during the pauses between the speaker's phrases. The voice itself is clear and understandable, with a natural tone and no obvious distortion or clipping. The frequency range seems somewhat limited, lacking in both deep bass and very high treble, giving it a slightly muffled quality. There are no dropouts or significant artifacts. The overall impression is of a decent, though not high-fidelity, recording.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00003_for_cnv_f_0038_01.wav,2.08695652173913,3,"The audio has a noticeable background hiss throughout, and the recording sounds somewhat muffled, suggesting it might be from a phone or a low-quality microphone. There is also a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is limited. The sound is not distorted, but the frequency range seems restricted, lacking both deep bass and crisp highs.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00004_for_cnv_m_1007_01.wav,3.09677419354839,4,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall sound is somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording or compression. There are no significant dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00004_for_cnv_m_1021_02.wav,2.931034482758621,4,"The audio quality is good. The speech is clear and easy to understand. There is a very faint background hum, but it does not interfere with the intelligibility of the voice. The recording is clean and free from distortion or dropouts.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00004_for_cnv_f_0119_01.wav,3.28125,4,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall sound is somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording or compression. There are no significant dropouts or distortion.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00004_for_cnv_f_0040_01.wav,3.3448275862069,4,"The audio quality is good. The speaker's voice is clear and easy to understand. There is a very faint background hum, but it does not interfere with the intelligibility of the speech. The recording is clean and free from distortion or dropouts.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00005_for_cnv_m_1026_02.wav,3.0,5,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but there is a slight, persistent electronic hum or tone in the background. The frequency range seems somewhat limited, lacking deep bass and very crisp highs, giving it a slightly muffled quality. There are no obvious dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00005_for_cnv_m_1035_01.wav,2.78787878787879,5,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent electronic hum in the background. The speech is understandable but not crisp or vibrant.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00005_for_cnv_f_0036_02.wav,2.80645161290323,5,"The audio has a noticeable background hiss throughout, and the voice sounds somewhat muffled and lacks high-frequency clarity. There is a slight, persistent hum in the background, possibly from electrical interference. The overall sound is not crisp, and the dynamic range seems compressed. Despite these issues, the speech remains intelligible and the content is easily understood.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00005_for_cnv_f_0038_02.wav,2.52,5,"The audio quality is fair. There is a noticeable background hiss throughout the recording. The speech is clear and intelligible, but the frequency range seems somewhat limited, lacking in both deep bass and crisp high-end details. There are no significant dropouts or distortion, and the voices sound natural. The overall impression is of a decent quality recording, possibly made with consumer-grade equipment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00006_for_cnv_m_0041_02.wav,2.83870967741935,6,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no significant distortion or dropouts, but the overall fidelity is limited. The speech is understandable but lacks crispness.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00006_for_cnv_m_1046_02.wav,3.4,6,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end details. There's a slight sense of muffledness, possibly due to recording environment or microphone quality. No distortion or dropouts are present.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00006_for_cnv_f_0045_02.wav,3.58823529411765,6,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall fidelity is limited, likely due to a lower-quality recording device. There is no significant distortion or dropouts, but the frequency range seems somewhat restricted, giving the voice a slightly muffled quality.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00006_for_cnv_f_0020_03.wav,3.43478260869565,6,"The audio quality is generally good with clear speech and minimal background noise. There is a slight room tone present, but it does not interfere with intelligibility. The voices are natural and well-captured, with no noticeable distortion or dropouts. The recording appears to be made in a quiet indoor environment.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00007_for_cnv_m_0054_01.wav,3.46875,7,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting some band-limitation or low-quality recording. There is no distortion or dropouts. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00007_for_cnv_m_0006_03.wav,3.8695652173913,7,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum in the background. The speech is understandable but not crisp or clear.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00007_for_cnv_f_0105_03.wav,3.4193548387096806,7,"The audio quality is generally good, with a clear and intelligible female voice. There is a slight background hiss, but no noticeable distortion, dropouts, or unnatural voice characteristics. The recording is clean and sounds like it was made with a decent microphone in a quiet environment.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00007_for_cnv_f_0112_01.wav,3.645161290322581,7,"The audio quality is fair. There is a noticeable background hiss throughout the recording, and the frequency response seems somewhat limited, giving the voice a slightly muffled quality. The speech is clear and understandable, but the overall sound lacks crispness and depth. There are no significant dropouts or distortion.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00008_for_cnv_m_0055_03.wav,1.38709677419355,8,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is also a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall sound is not crisp or professional.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00008_for_cnv_m_0028_03.wav,1.6060606060606102,8,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor recording conditions. There's a slight, persistent hum in the background, and the overall sound is not crisp or full. The speaker's voice is clear enough to understand, but the technical quality is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00008_for_cnv_f_0023_03.wav,1.55882352941176,8,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is a slight echo or reverb, indicating the recording was likely made in a small room. The speech is understandable but lacks crispness and dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00008_for_cnv_f_0114_01.wav,1.96875,8,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is no significant distortion or dropouts, but the overall sound is not crisp or full. The speaker's voice is clear enough to understand, but the lack of high-end detail and the persistent noise reduce the perceived quality.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00009_for_cnv_m_0616_03.wav,2.19047619047619,9,"The audio has a noticeable background hiss throughout. The recording is mono and exhibits some slight distortion, particularly on louder syllables. The frequency range is somewhat limited, lacking both deep bass and crisp high-end detail. The voice sounds slightly muffled and lacks clarity. There are no dropouts or major artifacts.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00009_for_cnv_m_0016_03.wav,2.67741935483871,9,"The audio has a noticeable background hiss throughout. The voice is clear but somewhat muffled, suggesting some frequency response limitations, possibly due to recording equipment or compression. There are no significant dropouts or distortion. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00009_for_cnv_f_0096_03.wav,2.53846153846154,9,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording quality is acceptable for casual listening but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00009_for_cnv_f_0079_01.wav,2.96774193548387,9,"The audio quality is generally good, with a clear and intelligible female voice. There is a slight background hiss, but no significant distortion, dropouts, or unnatural voice characteristics. The recording is clean and natural-sounding.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00010_for_cnv_m_0094_01.wav,3.2727272727272703,10,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade microphone in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00010_for_cnv_m_0010_01.wav,2.54838709677419,10,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or recording with a low-quality microphone. There is a slight echo or room reverberation, indicating the recording was likely made in a non-treated space. The speech is understandable but not crisp or vibrant.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00010_for_cnv_f_0013_03.wav,2.93548387096774,10,"The audio quality is good. The recording is clear and intelligible, with no noticeable background noise, distortion, or dropouts. The speaker's voice is natural and well-captured, with a full frequency range and no apparent coloration or band-limitation. The room tone is minimal and does not interfere with the speech.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00010_for_cnv_f_0088_01.wav,2.03448275862069,10,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is a slight echo or reverb, indicating the recording was likely made in a small, untreated room. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00011_for_cnv_m_0075_01.wav,2.2258064516129,11,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting some band-limitation or low-quality recording. There is no significant distortion or dropouts, but the overall clarity is limited. The speaker's voice is clear enough to understand, but the recording lacks richness and presence.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00011_for_cnv_m_0628_02.wav,1.76190476190476,11,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or low recording quality. There is a slight echo or reverb, indicating the recording was likely made in a room with some acoustic reflection. The voices are understandable but not crisp or natural-sounding.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00011_for_cnv_f_0079_02.wav,1.71875,11,"The audio quality is generally good with clear speech and minimal background noise. There is a slight room tone present, but it does not interfere with intelligibility. The voices are natural and the recording is free from distortion or dropouts. The frequency range seems adequate for speech, with no noticeable band-limitation.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00011_for_cnv_f_0009_02.wav,2.03125,11,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting band-limitation or a low-quality recording. There is a slight, persistent hum in the background. The speech is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00012_for_cnv_m_0628_03.wav,3.5625,12,"The audio quality is generally good. The speech is clear and easy to understand, with a natural-sounding voice. There is a very faint background hiss, but it does not interfere with intelligibility. The frequency range seems adequate for speech, with no noticeable distortion or band-limitation. The overall impression is of a clean, well-recorded voice.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00012_for_cnv_m_0016_01.wav,3.61290322580645,12,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum in the background. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00012_for_cnv_f_0062_01.wav,3.60714285714286,12,"The audio quality is generally good. There is a slight background hiss present throughout the recording, but it does not significantly interfere with the clarity of the speech. The voices are clear and easily understandable, with natural intonation and no noticeable distortion or dropouts. The recording appears to be made in a quiet indoor environment.
+
+Score: 4.0",4.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00012_for_cnv_f_0098_03.wav,3.51612903225806,12,"The audio quality is generally good. The speech is clear and easy to understand. There is a very faint background hiss, but no noticeable distortion, dropouts, or unnatural voice characteristics. The recording sounds like it was made with a decent microphone in a quiet environment.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00013_for_cnv_m_0028_01.wav,2.90322580645161,13,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor recording conditions. There is a slight, persistent hum or low-frequency noise present. The speech is understandable but lacks crispness and dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00013_for_cnv_m_1026_01.wav,3.36,13,"The audio quality is good. The speech is clear and intelligible, with a natural-sounding voice. There is a very faint background hiss, but it does not interfere with the conversation. The frequency range seems adequate for speech, with no noticeable distortion or band-limitation. The overall impression is of a clean, well-recorded voice conversation.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00013_for_cnv_f_0013_02.wav,2.83870967741935,13,"The audio has a noticeable background hiss throughout. The recording is mono and exhibits some slight distortion, particularly on louder syllables. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality microphone or recording conditions. There is also a brief, low-frequency thump or bump sound near the end.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00013_for_cnv_f_0572_02.wav,3.19230769230769,13,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade device in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00014_for_cnv_m_0049_03.wav,2.06451612903226,14,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is no significant distortion or dropouts, but the overall fidelity is limited. The speaker's voice is clear enough to understand, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00014_for_cnv_m_1007_02.wav,1.8125,14,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight, almost imperceptible, warble or pitch instability in the voice, possibly due to recording or playback issues. The overall sound is not crisp or clean.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00014_for_cnv_f_0053_01.wav,1.8695652173913,14,"The audio has a noticeable background hiss throughout. The speaker's voice is clear but sounds somewhat muffled and distant, suggesting a low-fidelity recording or a poor microphone setup. There is no significant distortion or dropouts, but the overall sound is lacking in clarity and presence.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00014_for_cnv_f_0020_02.wav,1.6764705882352902,14,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight, persistent hum in the background. The overall sound is not crisp and has a restricted frequency range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00015_for_cnv_m_0032_02.wav,2.25,15,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00015_for_cnv_m_0092_03.wav,1.5,15,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor recording conditions. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00015_for_cnv_f_0572_03.wav,2.15625,15,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a distant microphone. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00015_for_cnv_f_0101_01.wav,1.65625,15,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp or clear.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00016_for_cnv_m_0639_02.wav,1.58064516129032,16,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limited recording or poor microphone quality. There is a slight echo or reverb, indicating a non-ideal recording environment. The speech is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00016_for_cnv_m_1036_02.wav,1.46153846153846,16,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight, persistent hum in the background. The recording quality is adequate but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00016_for_cnv_f_0105_02.wav,1.83870967741935,16,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting a recording made with a low-quality microphone or over a compressed communication channel. There is no distortion or clipping, but the overall fidelity is limited. The speaker's voice is natural and easy to understand despite the technical shortcomings.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00016_for_cnv_f_0062_02.wav,1.52941176470588,16,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall fidelity is limited, likely due to a lower-quality recording device. There is some slight room reverberation, suggesting a non-studio environment. No significant distortion or dropouts are present.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00017_for_cnv_m_0048_03.wav,1.47826086956522,17,"The audio quality is poor. There is a constant, low-level background hiss throughout the recording. The speech is somewhat muffled and lacks clarity, suggesting possible band-limitation or low-fidelity recording equipment. There are also some slight audio dropouts or crackles, particularly noticeable during pauses in speech. The overall sound is not crisp or clean.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00017_for_cnv_m_0103_02.wav,1.35483870967742,17,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor microphone quality. There is a slight, persistent hum in the background, possibly from electrical interference. The speech is understandable but lacks crispness and dynamic range. The overall impression is of a low-to-mid fidelity recording.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00017_for_cnv_f_0071_02.wav,1.3235294117647098,17,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is muffled and difficult to understand, with a noticeable lack of high-frequency content, suggesting band-limitation or poor recording conditions. There are also some clipping/distortion artifacts during louder parts of the speech. The overall clarity is very poor.
+
+Score: 1.8",1.8
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00017_for_cnv_f_0071_03.wav,1.41935483870968,17,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and unclear, with a slight echo or reverberation, suggesting a non-ideal recording environment. There are also some minor audio artifacts, possibly due to compression or low recording quality. The speech is understandable but lacks clarity and crispness.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00018_for_cnv_m_0032_03.wav,3.9047619047619,18,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but there's a slight muffled quality, possibly due to band-limitation or recording conditions. There are no significant dropouts or distortion. The overall quality is acceptable for comprehension but not high fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00018_for_cnv_m_0012_02.wav,3.93548387096774,18,"The audio has a noticeable background hiss throughout the recording. The voice is clear and intelligible, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts, and the speaker's voice is natural and steady. The recording quality is acceptable but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00018_for_cnv_f_0047_02.wav,3.6875,18,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting a limited frequency response or recording with a low-quality microphone. There is a slight, persistent hum in the background. The speech is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00018_for_cnv_f_0080_03.wav,3.44,18,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is no distortion or dropouts, but the overall fidelity is limited. The speaker's voice is clear enough to understand, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00019_for_cnv_m_0081_02.wav,3.38235294117647,19,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight, almost imperceptible, warble or pitch instability in the voice, possibly due to recording or playback issues. The recording is mono and sounds like it was captured with a consumer-grade device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00019_for_cnv_m_0075_02.wav,2.34782608695652,19,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or low-quality recording equipment. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The voice is clear enough to understand, but the overall sound is not crisp or full. The quality is acceptable for basic comprehension but lacks fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00019_for_cnv_f_0097_01.wav,3.08,19,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is a slight, persistent hum in the background. The overall intelligibility is good, but the sound is not crisp or full-sounding.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00019_for_cnv_f_0026_01.wav,3.3125,19,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting possible band-limitation or low recording quality. There is a slight echo or reverb, indicating the recording may have been made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00020_for_cnv_m_0006_01.wav,2.16129032258065,20,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight echo or reverb on the voice, indicating the recording may have been made in a room with poor acoustics. The overall intelligibility is acceptable, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00020_for_cnv_m_1026_03.wav,2.71875,20,"The audio quality is fair. There is a noticeable background hiss throughout the recording, and the frequency response seems somewhat limited, lacking in both deep bass and crisp high-end detail. The voices are clear enough to understand, but the overall sound is a bit muffled and lacks richness. There are no major distortions or dropouts.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00020_for_cnv_f_0045_01.wav,2.3333333333333304,20,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight coloration to the voice, possibly due to the recording environment or equipment. No distortion or dropouts are present.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00020_for_cnv_f_0570_03.wav,2.2258064516129,20,"The audio quality is generally good. The speaker's voice is clear and easy to understand. There is a very faint background hiss, but it does not interfere with intelligibility. The frequency range seems adequate for speech, with no noticeable distortion or unnatural coloration. The recording appears to be made in a quiet environment with minimal room echo.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00021_for_cnv_m_0041_03.wav,1.7741935483871,21,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is no distortion or dropouts, but the overall fidelity is limited. The speaker's voice is clear enough to understand, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00021_for_cnv_m_0031_01.wav,1.61538461538462,21,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or a low-quality recording device. There is a slight echo or reverb, indicating the recording may have been made in a room with hard surfaces. The speech is understandable but not crisp, and there is a lack of dynamic range. Overall, the audio quality is below average.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00021_for_cnv_f_0119_02.wav,2.14705882352941,21,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall sound is somewhat muffled, suggesting a limited frequency response, possibly due to a low-quality microphone or recording conditions. There are no significant distortions or dropouts.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00021_for_cnv_f_0045_03.wav,1.80645161290323,21,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting a recording made with a lower-quality microphone or in a less-than-ideal acoustic environment. There is no distortion or clipping, and the speech is intelligible. The overall impression is of a decent but not high-fidelity recording.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00022_for_cnv_m_0056_01.wav,1.41935483870968,22,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks clarity, suggesting a low-fidelity recording. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The overall sound is not crisp, and the voice is not very prominent in the mix. Despite these issues, the speech remains mostly intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00022_for_cnv_m_0002_03.wav,1.93548387096774,22,"The audio quality is generally good, with clear speech and minimal background noise. There is a slight room tone and a very faint hum, but no significant distortion, dropouts, or unnatural voice characteristics. The recording is clean and intelligible throughout.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00022_for_cnv_f_0070_03.wav,2.15625,22,"The audio has a noticeable background hiss throughout. The recording is mono and exhibits some slight distortion, particularly on louder syllables. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality microphone or recording conditions. There are no dropouts or severe artifacts, but the overall fidelity is limited.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00022_for_cnv_f_0113_01.wav,1.68,22,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting some band-limitation or low-quality recording. There are no obvious dropouts or distortion, and the speech is intelligible. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00023_for_cnv_m_0002_01.wav,1.44,23,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is muffled and somewhat unclear, likely due to poor recording conditions or a low-quality microphone. There are also noticeable dropouts and audio artifacts, particularly around the 00:04 and 00:08 marks, which disrupt the continuity of the speech. The overall clarity is low, making it difficult to understand the content without effort.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00023_for_cnv_m_0003_03.wav,1.3125,23,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor microphone quality. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp, and there's a lack of dynamic range. Overall, the recording quality is below average.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00023_for_cnv_f_0579_01.wav,1.32,23,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or low-quality recording equipment. There is a slight, persistent hum in the background, and the overall sound is not crisp or detailed. The speech is understandable but lacks presence and warmth.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00023_for_cnv_f_0043_03.wav,1.61290322580645,23,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor microphone quality. There are also slight audio dropouts or clicks, particularly around the 00:04 and 00:08 marks. The overall intelligibility is acceptable, but the sound is not crisp or clean.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00024_for_cnv_m_0031_02.wav,1.29032258064516,24,"The audio suffers from significant background noise, including a persistent low-frequency hum and some crackling. The speech is somewhat muffled and lacks clarity, suggesting a low-fidelity recording. There is also a noticeable lack of high-frequency detail, making the overall sound appear dull and band-limited. The voices are present but not crisp, and the overall listening experience is compromised by these technical issues.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00024_for_cnv_m_0063_03.wav,1.33333333333333,24,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is somewhat muffled and lacks clarity, likely due to poor recording conditions or a low-quality microphone. There is also a noticeable lack of high-frequency content, making the voice sound dull and distant. The overall intelligibility is reduced by these factors.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00024_for_cnv_f_0118_01.wav,1.61290322580645,24,"The audio has a noticeable background hiss throughout. There is also a low-frequency hum or rumble present, likely from the recording environment. The speech is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or poor microphone quality. The overall intelligibility is acceptable, but the sound is not crisp or clean.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00024_for_cnv_f_0101_03.wav,1.2258064516129,24,"The audio suffers from significant background noise, including a persistent low-frequency hum and some crackling static. The speech is muffled and difficult to understand, suggesting poor recording conditions or a low-quality microphone. There is also a noticeable lack of high-frequency detail, making the voice sound dull and distant. The overall clarity is poor.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00025_for_cnv_m_0109_02.wav,2.6153846153846203,25,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is no significant distortion or dropouts, but the overall sound is not crisp or full. The voice is understandable but lacks presence.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00025_for_cnv_m_0639_03.wav,2.83870967741935,25,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight coloration to the voice, possibly due to the recording environment or equipment. The speech is delivered at a natural pace and is free of distortion or dropouts.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00025_for_cnv_f_0004_01.wav,3.11538461538462,25,"The audio quality is fair. There is a noticeable background hiss throughout the recording, and the voice sounds somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality microphone or recording conditions. The speech is intelligible, but the overall sound is not crisp or vibrant.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00025_for_cnv_f_0023_01.wav,2.70967741935484,25,"The audio has a noticeable background hiss throughout the recording. The voice is clear and understandable, but the overall fidelity is limited by the noise floor and a slightly muffled quality, suggesting a consumer-grade recording device. There are no obvious dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00026_for_cnv_m_1046_03.wav,1.96,26,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight, almost imperceptible, background hum or low-frequency noise. The overall sound is not crisp and has a slightly ""boxy"" quality, possibly due to recording in a small, untreated room or using a low-quality recording device. The speech is understandable but lacks presence and detail.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00026_for_cnv_m_0059_02.wav,3.54838709677419,26,"The audio quality is fair. There is a noticeable background hiss throughout the recording. The voice is clear and understandable, but the overall sound is somewhat muffled and lacks high-frequency detail, suggesting some band-limitation. There are no significant dropouts or distortion. The speaker's voice is natural and the pacing is normal.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00026_for_cnv_f_0080_01.wav,3.48387096774194,26,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting a recording made with a lower-quality microphone or through a phone line. There is no distortion or dropouts, but the overall fidelity is limited. The speaker's voice is natural and easy to understand.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00026_for_cnv_f_0113_02.wav,3.7741935483871,26,"The audio quality is good with clear speech and minimal background noise. There is a slight room tone present but it does not interfere with intelligibility. The voice is natural and there are no noticeable distortions or dropouts.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00027_for_cnv_m_0076_03.wav,2.15625,27,"The audio suffers from significant background noise, likely wind, which is particularly prominent during pauses and makes the speech difficult to understand at times. There is also a noticeable low-frequency rumble and some distortion, especially on louder sounds. The overall clarity is poor.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00027_for_cnv_m_0048_02.wav,3.61290322580645,27,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00027_for_cnv_f_0088_03.wav,1.7692307692307698,27,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no significant distortion or dropouts, but the overall fidelity is low. The speech is understandable but lacks crispness.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00027_for_cnv_f_0008_01.wav,3.28571428571429,27,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade device in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00028_for_cnv_m_0041_01.wav,1.23076923076923,28,"The audio suffers from significant background noise, including a persistent hiss and what sounds like a low-frequency hum. There are also noticeable dropouts and crackling, particularly around the 4-second mark, suggesting digital artifacts or signal interference. The speech is somewhat muffled and lacks clarity, likely due to both the noise and potential bandwidth limitations. The overall intelligibility is reduced, making the recording sound low-fidelity.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00028_for_cnv_m_1021_01.wav,1.5483870967741902,28,"The audio suffers from significant background noise, including a persistent low-frequency hum and what sounds like a distant vehicle or machinery. There are also some faint, intermittent crackling sounds. The speech is somewhat muffled and lacks clarity, likely due to the poor recording environment and possibly a low-quality microphone. The overall sound is not clean or crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00028_for_cnv_f_0043_01.wav,1.84375,28,"The audio contains a persistent, low-frequency hum or rumble throughout the recording, likely from the recording environment or equipment. There is also a brief, sharp, high-pitched sound, possibly a squeak or feedback, near the end. The speech is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or poor microphone quality. Despite these issues, the speaker's voice remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00028_for_cnv_f_0021_03.wav,1.4516129032258098,28,"The audio suffers from significant background noise, including what sounds like a television or radio playing in the background. There is also a persistent hiss throughout the recording. The speech is somewhat muffled and not perfectly clear, likely due to the poor recording environment and the competing audio sources. The overall intelligibility is reduced, but the speaker's voice remains mostly understandable.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00029_for_cnv_m_0092_02.wav,1.1304347826087,29,"The audio suffers from significant background noise, likely wind, which masks the speech and makes it difficult to understand. The voice is muffled and somewhat distant, suggesting a low-quality recording device or poor microphone placement. There is also a noticeable lack of high-frequency detail, contributing to a dull, muffled sound. The overall clarity is poor.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00029_for_cnv_m_0068_02.wav,2.28125,29,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no significant distortion or dropouts, but the overall fidelity is limited. The speech is understandable but lacks crispness.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00029_for_cnv_f_0053_03.wav,2.03846153846154,29,"The audio quality is fair. There is a noticeable amount of background noise, possibly wind, throughout the recording. The speech is generally intelligible but suffers from some muffled quality and slight distortion, likely due to the recording environment or equipment. The overall sound is not crisp or clear, but the conversation remains understandable.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00029_for_cnv_f_0097_03.wav,2.32258064516129,29,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a lower-quality microphone or in a noisy environment. There is no significant distortion or dropouts, but the overall fidelity is limited. The voice is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00030_for_cnv_m_0016_02.wav,3.0,30,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum in the background. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00030_for_cnv_m_0075_03.wav,2.60606060606061,30,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade device in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00030_for_cnv_f_0052_02.wav,3.19047619047619,30,"The audio has a noticeable background hiss throughout, and the voice sounds somewhat muffled and distant, suggesting a low-quality recording device or poor microphone placement. There is also a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but lacks clarity and crispness.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00030_for_cnv_f_0096_01.wav,3.23529411764706,30,"The audio quality is fair. There is a noticeable background hiss throughout the recording, and the voice sounds somewhat muffled and lacks high-frequency clarity. The speech is understandable, but the overall fidelity is limited, suggesting a lower-quality recording device or less-than-ideal recording conditions. There are no major dropouts or distortion.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00031_for_cnv_m_0063_01.wav,2.92,31,"The audio has a noticeable background hiss throughout. The voice is clear but somewhat muffled, suggesting a less-than-ideal recording environment or microphone. There is a slight echo or reverb, indicating the recording may have been made in a room with hard surfaces. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00031_for_cnv_m_0032_01.wav,2.8709677419354804,31,"The audio has a noticeable background hiss throughout. The voice is clear but somewhat muffled, suggesting some band-limitation or poor microphone quality. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00031_for_cnv_f_0098_01.wav,2.51612903225806,31,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no significant distortion or dropouts, but the overall fidelity is limited. The speech is understandable but lacks crispness.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00031_for_cnv_f_0023_02.wav,2.72,31,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no distortion or dropouts, but the overall fidelity is limited. The speaker's voice is clear enough to understand, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00032_for_cnv_m_0103_03.wav,1.16,32,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is a slight, persistent hum in the background. The speech is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00032_for_cnv_m_1021_03.wav,1.3636363636363602,32,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording. There is a slight echo or reverberation, indicating the recording was likely made in a room without sound treatment. The speaker's voice is clear enough to understand, but the overall sound is not crisp or professional.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00032_for_cnv_f_0585_01.wav,1.38709677419355,32,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but there is a slight, persistent high-frequency whine or hum present. The recording sounds like it was made with a consumer-grade device, possibly a phone, in a non-studio environment. There are no major dropouts or distortion, but the overall fidelity is limited by the noise floor and lack of a wide frequency response.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00032_for_cnv_f_0105_01.wav,1.40625,32,"The audio has a noticeable background hiss throughout. The recording is mono and sounds somewhat muffled, suggesting it was captured with a low-quality microphone or in a non-ideal acoustic environment. There is a slight, persistent hum in the background. The speech is understandable but lacks clarity and high-frequency detail. The overall fidelity is limited.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00033_for_cnv_m_0031_03.wav,1.80769230769231,33,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is somewhat muffled and lacks clarity, likely due to poor recording conditions or a low-quality microphone. There are also some moments of distortion, particularly on louder syllables. The overall sound is not crisp and lacks high-frequency detail.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00033_for_cnv_m_0048_01.wav,2.07692307692308,33,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a distant microphone. There is a slight, persistent hum in the background. The overall sound is colored and not very natural.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00033_for_cnv_f_0087_01.wav,2.16129032258065,33,"The audio has a noticeable background hiss throughout. The recording is mono and exhibits some band-limitation, making the voice sound somewhat muffled and lacking in high-frequency detail. There is a slight, persistent hum in the background. The speech is clear enough to understand, but the overall fidelity is low, suggesting a recording made with a basic consumer device.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00033_for_cnv_f_0114_02.wav,1.68,33,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a less-than-ideal acoustic environment. There is a slight, persistent hum in the background, possibly from electrical interference. The overall sound is not crisp, and the voice sounds distant or poorly captured. Despite these issues, the speech remains intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00034_for_cnv_m_0076_02.wav,2.05882352941176,34,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00034_for_cnv_m_0012_03.wav,2.28571428571429,34,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or poor microphone quality. There is no distortion or dropouts, but the overall fidelity is low. The speaker's voice is clear enough to understand, but the recording quality is not high.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00034_for_cnv_f_0101_02.wav,1.75862068965517,34,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a reverberant space. There is a slight echo or room tone, and the overall frequency range is limited, making the voice sound somewhat distant. Despite these issues, the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00034_for_cnv_f_0071_01.wav,2.19354838709677,34,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is no distortion or dropouts, but the overall fidelity is limited. The speech is understandable but lacks crispness.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00035_for_cnv_m_1036_01.wav,1.86206896551724,35,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a less-than-ideal environment. There is no distortion or dropouts, but the overall fidelity is limited, giving it a slightly ""thin"" sound. The speech is understandable but lacks richness.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00035_for_cnv_m_0093_03.wav,1.9523809523809497,35,"The audio has a noticeable background hiss throughout. The voice is clear but somewhat muffled, suggesting some frequency response limitations, possibly due to recording equipment or compression. There are no significant dropouts or distortion, and the speech is intelligible. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00035_for_cnv_f_0097_02.wav,1.42307692307692,35,"The audio suffers from significant background noise, including a persistent low-frequency hum and some handling noise or rustling. The speech is somewhat muffled and lacks clarity, suggesting a low-fidelity recording, possibly from a phone or a non-professional microphone. There is also a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The overall intelligibility is acceptable, but the quality is hampered by the noise and lack of crispness.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00035_for_cnv_f_0013_01.wav,1.69565217391304,35,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but there is a slight echo or reverb effect, possibly from the recording environment or added during processing. The frequency range seems somewhat limited, lacking deep bass and crisp highs, giving it a slightly muffled quality. There are no major dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00036_for_cnv_m_0049_01.wav,2.48,36,"The audio has a noticeable background hiss throughout. The voices are clear but sound somewhat distant and muffled, suggesting a non-professional recording setup, possibly a handheld device. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The overall frequency range seems limited, lacking crispness in the highs and depth in the lows. Despite these issues, the speech remains intelligible and the conversation flows naturally.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00036_for_cnv_m_0011_03.wav,3.25806451612903,36,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality recording or transmission. There is a slight echo or reverberation, indicating the recording may have been made in a room with hard surfaces. The voice is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00036_for_cnv_f_0098_02.wav,2.78571428571429,36,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall sound is somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording or compression. There are no obvious distortions or dropouts.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00036_for_cnv_f_0079_03.wav,3.02941176470588,36,"The audio quality is good. The speaker's voice is clear and easy to understand. There is a very faint background noise, possibly from a fan or air conditioning, but it does not interfere with the speech. The recording is clean and natural-sounding, with no noticeable distortion, dropouts, or unnatural voice characteristics.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00037_for_cnv_m_0054_03.wav,2.8125,37,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or low-quality recording equipment. There is a slight, persistent hum in the background. The speech is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00037_for_cnv_m_0010_02.wav,2.71875,37,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality recording or transmission. There is a slight echo or reverberation, indicating the recording may have been made in a room with some acoustic reflection. The speech is generally intelligible but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00037_for_cnv_f_0585_02.wav,2.6956521739130404,37,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall fidelity is limited, likely due to a consumer-grade recording device. There is some slight room reverberation, suggesting a non-studio environment. No significant distortion or dropouts are present.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00037_for_cnv_f_0020_01.wav,2.65625,37,"The audio has a noticeable background hiss throughout. The recording is mono and exhibits some slight distortion, particularly on louder syllables. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality microphone or recording conditions. There are no dropouts or severe artifacts.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00038_for_cnv_m_0093_02.wav,2.64705882352941,38,"The audio has a noticeable background hiss throughout. The voice is clear but has a slightly muffled quality, suggesting some band-limitation or recording with a low-quality microphone. There are no significant dropouts or distortion, but the overall fidelity is limited. The speaker's voice is natural and easy to understand.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00038_for_cnv_m_0094_02.wav,3.09677419354839,38,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight, almost imperceptible, warble or flutter in the recording, possibly due to analog tape or a minor speed fluctuation. The speaker's voice is natural and the recording is free of distortion or clipping.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00038_for_cnv_f_0052_01.wav,2.625,38,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end details. There are no obvious dropouts or distortion. The recording sounds like it was made with a consumer-grade device in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00038_for_cnv_f_0579_03.wav,2.17391304347826,38,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no significant distortions or dropouts. The recording quality is acceptable for casual listening but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00039_for_cnv_m_0093_01.wav,2.5,39,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a limited frequency response or low-quality recording equipment. There is a slight echo or reverb, indicating the recording was likely made in a room with some acoustic reflection. The speech is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00039_for_cnv_m_0067_01.wav,1.6774193548387095,39,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is also a slight echo or reverb, indicating the recording was likely made in a small, untreated room. The voice is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00039_for_cnv_f_0026_02.wav,2.09677419354839,39,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording quality is acceptable for casual listening but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00039_for_cnv_f_0088_02.wav,1.56521739130435,39,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp. The overall quality is below average.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00040_for_cnv_m_0056_02.wav,1.74193548387097,40,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting possible band-limitation or low recording quality. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00040_for_cnv_m_0028_02.wav,1.7352941176470602,40,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting band-limitation or a low-quality recording. There is a slight, persistent hum in the background. The overall clarity is reduced, making the speech less crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00040_for_cnv_f_0089_02.wav,1.8529411764705903,40,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, almost imperceptible, background hum. The speech is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00040_for_cnv_f_0062_03.wav,1.60714285714286,40,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or over a poor connection. There is a slight echo or reverberation, indicating the recording was likely made in a room without sound treatment. The speech is understandable but not crisp or clear.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00041_for_cnv_m_0059_01.wav,4.375,41,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight sense of compression or narrow dynamic range, making it sound a bit flat. The speaker's voice is natural and the delivery is smooth.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00041_for_cnv_m_0012_01.wav,4.09090909090909,41,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum in the background. The overall clarity is reduced, but the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00041_for_cnv_f_0112_02.wav,4.38709677419355,41,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade microphone in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00041_for_cnv_f_0096_02.wav,4.25806451612903,41,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording appears to be of moderate quality, likely made with a consumer device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00042_for_cnv_m_0058_02.wav,2.61290322580645,42,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00042_for_cnv_m_1036_03.wav,2.90625,42,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but there's a slight, persistent high-frequency whine or hum present. The recording sounds like it was made with consumer-grade equipment, resulting in a somewhat limited frequency range and a slightly muffled quality. There are no major dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00042_for_cnv_f_0118_02.wav,2.7741935483871,42,"The audio has a noticeable background hiss throughout. There is also some low-frequency rumble, possibly from handling noise or the recording environment. The speech is clear and intelligible, but the overall fidelity is limited by the noise floor. The voice sounds natural and undistorted.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00042_for_cnv_f_0570_02.wav,3.0,42,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but there is a slight, persistent high-frequency whine or hum present, likely from the recording equipment or environment. The overall sound is somewhat muffled, suggesting some band-limitation, possibly due to a low-quality microphone or recording conditions. There are no obvious dropouts or distortion.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00043_for_cnv_m_0626_02.wav,1.375,43,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is somewhat muffled and lacks clarity, likely due to poor recording conditions or a low-quality microphone. There are also noticeable dropouts and crackling sounds throughout the clip, which interfere with intelligibility. The overall sound is colored by these artifacts, making it difficult to perceive the speaker's voice naturally.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00043_for_cnv_m_0109_03.wav,2.06451612903226,43,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00043_for_cnv_f_0008_02.wav,1.31034482758621,43,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a reverberant space. There is a slight, intermittent crackling sound, possibly from handling noise or minor audio artifacts. The speech is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00043_for_cnv_f_0089_03.wav,1.26470588235294,43,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is no distortion or dropouts, but the overall fidelity is limited. The speech is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00044_for_cnv_m_0626_01.wav,1.6086956521739098,44,"The audio suffers from significant background noise, likely from a moving vehicle, which masks the speech and reduces clarity. The voice is somewhat muffled and distant, suggesting a low-quality recording device or poor microphone placement. There is also a persistent hiss and some low-frequency rumble. Despite these issues, the speech remains mostly intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00044_for_cnv_m_0616_01.wav,1.0,44,"The audio suffers from significant background noise and hiss throughout. There are noticeable dropouts and crackling sounds, particularly around the 00:04 mark. The speech is muffled and difficult to understand due to poor clarity and possible distortion. The overall frequency range is limited, making the recording sound unnatural and low-fidelity.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00044_for_cnv_f_0087_03.wav,1.17857142857143,44,"The audio suffers from significant background noise and a persistent hiss throughout. The speech is muffled and difficult to understand at times, suggesting poor recording quality or a low-quality microphone. There are also some dropouts and audio artifacts, particularly around the 00:05 mark, which further degrade intelligibility. The overall sound is narrow and lacks clarity.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00044_for_cnv_f_0585_03.wav,1.25806451612903,44,"The audio has a constant background hiss, likely from the recording equipment or environment. There is also a low-frequency hum present throughout. The speech is intelligible but the overall fidelity is limited, suggesting a non-professional recording setup. The frequency range seems somewhat restricted, lacking crispness in the highs.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00045_for_cnv_m_0616_02.wav,1.19047619047619,45,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks clarity, suggesting possible band-limitation or low recording quality. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speaker's voice is understandable but not crisp, and there are minor fluctuations in volume. Overall, the audio is functional but not high fidelity.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00045_for_cnv_m_0006_02.wav,1.52173913043478,45,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor recording conditions. There is a slight echo or reverb, indicating the recording may have been made in a room with less-than-ideal acoustics. The voices are understandable but not crisp, and there's a lack of dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00045_for_cnv_f_0053_02.wav,1.41935483870968,45,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is also a slight, persistent low-frequency hum. The speech is understandable but lacks crispness and dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00045_for_cnv_f_0026_03.wav,1.48,45,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a reverberant space. There is also a slight, persistent hum in the background. Despite these issues, the speech remains mostly intelligible and the pace is natural.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00046_for_cnv_m_0058_03.wav,1.71875,46,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00046_for_cnv_m_0092_01.wav,1.7826086956521698,46,"The audio quality is poor. The recording is mono and suffers from significant background hiss throughout. The speech is muffled and lacks clarity, with a restricted frequency range that makes it sound somewhat distant and boxy. There is a noticeable lack of high-frequency detail and the overall sound is colored by the noise floor. The speaker's voice is somewhat unclear, possibly due to both the recording conditions and the speaker's articulation.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00046_for_cnv_f_0112_03.wav,1.64,46,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal acoustic environment. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but lacks crispness and presence.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00046_for_cnv_f_0089_01.wav,1.59375,46,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled, possibly due to a low-quality microphone or recording environment. There is a slight echo or reverb, suggesting the recording was made in a room with hard surfaces. The overall fidelity is limited, with a restricted frequency range and a lack of crispness in the higher frequencies. Despite these issues, the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00047_for_cnv_m_0068_03.wav,1.32258064516129,47,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks clarity, suggesting possible band-limitation or poor microphone quality. There is a slight echo or reverb, indicating the recording may have been made in a room with less-than-ideal acoustics. The speech is understandable but not crisp, and the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00047_for_cnv_m_0001_03.wav,1.41935483870968,47,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks clarity, suggesting possible recording limitations or poor microphone placement. There's a slight echo or reverb, indicating the recording may have been made in a room with hard surfaces. The speech is also a bit unclear at times, possibly due to mumbling or low volume. Overall, the audio is intelligible but of low fidelity.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00047_for_cnv_f_0004_02.wav,1.06451612903226,47,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording. There is a slight, persistent hum in the background. The overall sound is not crisp, and the voice sounds a bit distant or poorly captured. Despite these issues, the speech remains intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00047_for_cnv_f_0047_01.wav,1.33333333333333,47,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks clarity, suggesting a low-fidelity recording, possibly from a phone or a non-professional microphone. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp, and there is a lack of high-frequency detail. Overall, the recording quality is below average.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00048_for_cnv_m_0059_03.wav,3.65217391304348,48,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There's a slight, persistent hum or low-frequency noise present. The recording sounds like it was made with consumer-grade equipment in a non-treated room.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00048_for_cnv_m_0628_01.wav,3.06451612903226,48,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but there's a slight, persistent high-frequency noise floor. The recording sounds like it was made with a consumer-grade microphone, possibly a phone, in a quiet environment. There are no significant dropouts, distortion, or unnatural voice characteristics.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00048_for_cnv_f_0021_01.wav,3.5,48,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade microphone in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00048_for_cnv_f_0070_01.wav,2.65384615384615,48,"The audio quality is generally good with a clear and intelligible female voice. There is a slight background hiss, but no noticeable distortion, dropouts, or unnatural voice characteristics. The recording is clean and sounds like it was made with a decent microphone in a quiet environment.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00049_for_cnv_m_0109_01.wav,3.15625,49,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a reverberant space. There is a slight, persistent hum in the background. The overall sound is not crisp, and the voice has a slightly unnatural, distant quality. Despite these issues, the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00049_for_cnv_m_1035_03.wav,2.7741935483871,49,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but there is a slight, persistent electronic hum or buzz underneath the speech. The recording sounds like it was made with consumer-grade equipment, resulting in a somewhat limited frequency range and a lack of crispness in the higher frequencies. There are no major dropouts or distortion, but the overall fidelity is modest.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00049_for_cnv_f_0040_02.wav,3.2258064516129,49,"The audio quality is good. The speaker's voice is clear and easy to understand. There is a very faint background hum, but it does not interfere with the intelligibility of the speech. The recording is free from distortion, dropouts, or other noticeable artifacts.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00049_for_cnv_f_0102_03.wav,3.34375,49,"The audio quality is generally good. The speaker's voice is clear and easy to understand, with minimal background noise. There is a slight room tone present, but it does not interfere with intelligibility. The recording is clean and free from distortion or dropouts. The frequency response seems adequate for speech, with no noticeable coloration.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00050_for_cnv_m_0011_01.wav,1.46153846153846,50,"The audio quality is poor. The recording suffers from significant background noise and a constant low-frequency hum. The speech is muffled and unclear, with noticeable distortion and clipping, especially during louder parts. The frequency range is limited, making the voice sound boxy and unnatural. There are also some dropouts and audio artifacts, likely due to a low-quality recording device or poor microphone placement.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00050_for_cnv_m_0001_01.wav,1.1764705882352902,50,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is muffled and difficult to understand due to poor clarity and possible distortion. There are also noticeable dropouts and artifacts, particularly around the 00:04-00:06 mark, which disrupt the flow of speech. The overall impression is of a very low-quality recording with multiple technical issues.
+
+Score: 1.5",1.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00050_for_cnv_f_0052_03.wav,1.48387096774194,50,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording, possibly from a phone or a distant microphone. There is a slight echo or room reverberation, and the overall sound is not crisp or detailed. Despite these issues, the speech remains mostly intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00050_for_cnv_f_0118_03.wav,1.61290322580645,50,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor microphone quality. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp, and there are minor fluctuations in volume. Overall, the recording is functional but not high quality.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00051_for_cnv_m_0011_02.wav,3.38709677419355,51,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts, and the speaker's voice is natural and steady. The recording quality is acceptable for casual listening but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00051_for_cnv_m_0003_01.wav,2.80645161290323,51,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no significant dropouts or distortion, and the speech is natural in tone. The recording quality is acceptable for comprehension but not high-fidelity.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00051_for_cnv_f_0119_03.wav,3.23809523809524,51,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but the overall fidelity is limited, suggesting a lower-quality recording device. There is no significant distortion or dropouts, and the speech is natural in tone and pace. The frequency range seems somewhat restricted, lacking in both deep bass and crisp highs.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00051_for_cnv_f_0080_02.wav,2.90322580645161,51,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording or transmission. There is no distortion or dropouts, but the overall fidelity is limited. The speaker's voice is natural and easy to understand despite the technical limitations.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00052_for_cnv_m_0639_01.wav,1.61290322580645,52,"The audio suffers from significant background noise, including a persistent hiss and what sounds like wind or environmental interference. There are also noticeable dropouts and crackling, particularly around the 00:04 mark, suggesting poor recording conditions or a low-quality transmission. The voice is somewhat muffled and lacks clarity, likely due to band-limitation or poor microphone placement. Despite these issues, the speech remains mostly intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00052_for_cnv_m_0081_01.wav,2.03225806451613,52,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor recording conditions. There is a slight echo or reverb, indicating the recording may have been made in a room with reflective surfaces. The speech is understandable but not crisp or clear.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00052_for_cnv_f_0102_01.wav,2.1923076923076903,52,"The audio quality is fair. There is a noticeable background hiss throughout the recording. The voices are clear enough to understand, but the overall sound is somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording device or compression. There are no significant dropouts or distortion. The conversation is natural and easy to follow despite the technical limitations.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00052_for_cnv_f_0104_01.wav,2.06451612903226,52,"The audio has a persistent, high-pitched electronic tone or whine in the background throughout the recording. This intrusive noise significantly interferes with the clarity of the speech, making it difficult to hear the conversation cleanly. The speech itself is intelligible but is masked by the constant background interference.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00053_for_cnv_m_0002_02.wav,2.0952380952381,53,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum or low-frequency noise present. The overall sound is not crisp, but the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00053_for_cnv_m_0055_01.wav,1.41935483870968,53,"The audio suffers from significant background noise and a persistent low-frequency hum. The speech is muffled and somewhat unclear, likely due to poor recording conditions or a low-quality microphone. There is also a noticeable lack of high-frequency detail, making the voice sound dull and distant. The overall clarity is poor, making it difficult to understand the speaker at times.
+
+Score: 2.0",2.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00053_for_cnv_f_0070_02.wav,1.7391304347826102,53,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight, persistent hum in the background. The overall intelligibility is good, but the sound is not crisp or full.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00053_for_cnv_f_0043_02.wav,2.375,53,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality recording or transmission. There is a slight echo or reverberation, indicating the recording may have been made in a room with poor acoustics or over a phone line. The speech is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00054_for_cnv_m_1007_03.wav,1.52173913043478,54,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limited recording or poor microphone quality. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp or natural in tone.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00054_for_cnv_m_0094_03.wav,2.25806451612903,54,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speaker's voice is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00054_for_cnv_f_0047_03.wav,1.48,54,"The audio quality is fair. There is a noticeable background hiss throughout the recording. The voices are somewhat muffled and lack high-frequency clarity, suggesting some band-limitation. There is also a slight echo or reverberation, indicating the recording may have been made in a room with hard surfaces. The speech is understandable but not crisp or clear.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00054_for_cnv_f_0040_03.wav,2.6,54,"The audio has a noticeable background hiss throughout. The voice is clear but sounds somewhat muffled and lacks high-frequency detail, suggesting a lower-quality recording or transmission. There is a slight, persistent hum in the background. The overall sound is not crisp or vibrant.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00055_for_cnv_m_0626_03.wav,1.79411764705882,55,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a poor microphone. There is a slight, persistent hum in the background. The speech is understandable but lacks crispness and dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00055_for_cnv_m_0063_02.wav,2.21212121212121,55,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low-quality recording. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speech is understandable but not crisp.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00055_for_cnv_f_0009_01.wav,1.8125,55,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting band-limitation or a low-quality recording. There is a slight, persistent hum in the background. The overall clarity is reduced, but the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00055_for_cnv_f_0572_01.wav,2.28,55,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting a limited frequency response or recording with a low-quality microphone. There is no distortion or dropouts, but the overall clarity is reduced by the noise and muffled quality. The speaker's voice is clear enough to understand, but the recording does not sound professional.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00056_for_cnv_m_0054_02.wav,4.03846153846154,56,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting some band-limitation or low recording quality. There is a slight, almost imperceptible, background hum. The speech is understandable but not crisp or vibrant.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00056_for_cnv_m_0067_02.wav,4.4,56,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording appears to be of moderate quality, likely made with a consumer-grade device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00056_for_cnv_f_0021_02.wav,4.23529411764706,56,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording appears to be of moderate quality, likely made with a consumer-grade device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00056_for_cnv_f_0036_03.wav,3.67741935483871,56,"The audio quality is generally good, with clear speech and minimal background noise. There is a slight room tone present, but it does not interfere with intelligibility. The voices are natural and well-captured, with no noticeable distortion, clipping, or dropouts. The frequency range seems adequate for speech, and the overall listening experience is pleasant.
+
+Score: 4.5",4.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00057_for_cnv_m_0003_02.wav,2.6969696969697003,57,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is also a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00057_for_cnv_m_0010_03.wav,2.3448275862069,57,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a noisy environment. There is also a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speaker's voice is clear enough to understand, but the overall fidelity is low.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00057_for_cnv_f_0038_03.wav,3.0,57,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but the overall frequency range seems somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording sounds like it was made with a consumer-grade device in a quiet environment.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00057_for_cnv_f_0570_01.wav,3.05882352941176,57,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording appears to be of moderate quality, likely made with a consumer-grade device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00058_for_cnv_m_0076_01.wav,2.7241379310344795,58,"The audio has a noticeable background hiss throughout. The voice sounds somewhat muffled and lacks high-frequency detail, suggesting some band-limitation or low-quality recording. There is a slight echo or reverb, indicating the recording was likely made in a room with hard surfaces. The speech is clear enough to understand, but the overall fidelity is limited.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00058_for_cnv_m_0081_03.wav,2.96774193548387,58,"The audio has a noticeable background hiss throughout. The voice is clear and understandable, but there is a slight, persistent electronic hum or buzz underneath the speech. The recording sounds like it was made with a consumer-grade device, resulting in a somewhat limited frequency range and a slightly muffled quality. There are no dropouts or distortion, but the overall fidelity is not high.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00058_for_cnv_f_0579_02.wav,2.875,58,"The audio has a noticeable background hiss throughout. The speaker's voice is clear and understandable, but there is a slight, persistent high-frequency noise floor. The recording is mono and lacks a wide frequency range, sounding somewhat muffled and lacking in high-end detail. There are no obvious distortions or dropouts. The overall quality is acceptable but not high-fidelity.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00058_for_cnv_f_0009_03.wav,3.94117647058824,58,"The audio has a noticeable background hiss throughout. The speech is clear and understandable, but the recording sounds like it was made with consumer-grade equipment, resulting in a somewhat limited frequency range and a slightly muffled quality. There are no obvious distortions or dropouts. The overall impression is of a decent but not high-fidelity recording.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00059_for_cnv_m_1046_01.wav,1.93103448275862,59,"The audio has a noticeable background hiss throughout. The voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording, possibly from a phone or a non-professional microphone. There is a slight echo or reverb, indicating the recording was likely made in a room without sound treatment. The speech is understandable but lacks crispness and dynamic range.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00059_for_cnv_m_0001_02.wav,1.84375,59,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a recording made with a low-quality microphone or in a non-ideal environment. There is a slight echo or reverberation, indicating the recording was likely made in a room with hard surfaces. The speech is understandable but not crisp or clear.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00059_for_cnv_f_0104_03.wav,2.28571428571429,59,"The audio has a noticeable background hiss throughout. The voice is clear and intelligible, but the overall frequency range sounds somewhat limited, lacking in both deep bass and crisp high-end detail. There are no obvious distortions or dropouts. The recording appears to be of moderate quality, likely made with a consumer device.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00059_for_cnv_f_0004_03.wav,2.24137931034483,59,"The audio has a noticeable background hiss throughout. There is some low-frequency rumble, possibly from the recording environment or handling noise. The voices are clear enough to understand, but the overall fidelity is limited, suggesting a consumer-grade recording device. There are no major dropouts or distortion.
+
+Score: 3.5",3.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00060_for_cnv_m_0049_02.wav,1.34615384615385,60,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting a low-fidelity recording or a distant microphone. There is a slight, persistent hum in the background. The voice itself is clear enough to understand, but the overall sound is colored by the noise and limited frequency response. The recording is not of professional quality but is still intelligible.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00060_for_cnv_m_0058_01.wav,1.4375,60,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks high-frequency clarity, suggesting band-limitation or poor microphone quality. There is a slight, unnatural resonance in the voice, possibly due to room acoustics or audio processing. The overall intelligibility is acceptable, but the sound is not crisp or full.
+
+Score: 2.5",2.5
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00060_for_cnv_f_0008_03.wav,1.35483870967742,60,"The audio has a noticeable background hiss throughout. The speech is somewhat muffled and lacks high-frequency clarity, suggesting a lower-quality recording or compression. There is a slight, persistent hum in the background. The voice sounds a bit distant and lacks presence. Despite these issues, the speech remains intelligible.
+
+Score: 3.0",3.0
+/share/panjiayi/chengqiming/AQA/dataset/NISQA/NISQA_Corpus/NISQA_TEST_FOR/deg/c00060_for_cnv_f_0102_02.wav,1.25806451612903,60,"The audio has a noticeable background hiss throughout. The speaker's voice is somewhat muffled and lacks clarity, suggesting a low-fidelity recording. There is a slight echo or reverb, indicating the recording may have been made in a room with poor acoustics. The speech is understandable but not crisp, and the overall sound is colored by the recording environment and equipment limitations.
+
+Score: 2.5",2.5

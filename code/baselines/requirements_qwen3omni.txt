@@ -1,0 +1,19 @@
+# Zero-shot Qwen3-Omni baseline (eval_qwen3omni_zeroshot.py). Python 3.11.
+# Install vLLM first. The plain PyPI wheel (vllm 0.25.1 -> torch 2.11 +cu130) needs NVIDIA
+# driver >= 580, so on our server (driver 535, CUDA 12.2) use the CUDA 12.9 build instead,
+# which runs on driver 535 through CUDA minor-version compatibility:
+#   pip install uv
+#   uv pip install vllm==0.25.1 \
+#     --extra-index-url https://wheels.vllm.ai/0.25.1/cu129 \
+#     --extra-index-url https://download.pytorch.org/whl/cu129 \
+#     --index-strategy unsafe-best-match
+# then:  uv pip install -r requirements_qwen3omni.txt
+# (this resolves to vllm 0.25.1+cu129, torch 2.11.0+cu129, transformers 5.19; Qwen asks for >=5.2.
+#  No separate flash-attn install is needed: vLLM ships its own attention kernels.)
+qwen-omni-utils==0.0.9
+audioread          # qwen-omni-utils imports it; newer librosa no longer pulls it in
+librosa
+soundfile
+modelscope         # model download from mainland China
+pandas
+scipy
